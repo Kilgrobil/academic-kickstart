@@ -80,6 +80,4 @@ user_groups:
 
 Welcome on my professional page!
 
-I am a PhD student in the LogiMICS team of laboratory MICS, at CentraleSupélec (France).
-My research interests lie in mathematics and theoretical computer science, and include logic, semantics, coalgebra and category theory.
-More precisely, my thesis focuses on weak distributive laws.
+I am a PhD student in the LogiMICS team of laboratory MICS, at CentraleSupélec, France. My supervisors are Daniela Petrisan and Marc Aiguier. My research focuses on weak distributive laws and their application to computer science, e.g. automata.
