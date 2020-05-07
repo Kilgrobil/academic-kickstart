@@ -78,6 +78,6 @@ user_groups:
 - Visitors
 ---
 
-Welcome on my professional page!
+Welcome on my academic page!
 
 I am a PhD student in the LogiMICS team of laboratory MICS, at CentraleSupélec, France. My supervisors are Daniela Petrisan and Marc Aiguier. My research focuses on weak distributive laws and their application to computer science, e.g. automata.
