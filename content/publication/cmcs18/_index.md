@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: (In)finite trace equivalence of probabilistic transition systems
 
 # View.
 #   1 = List
@@ -12,13 +12,6 @@ view: 4
 header:
   caption: ""
   image: ""
-  
-  
-links:
-  - icon_pack: fas
-    icon: book
-    name: (In)finite trace equivalence of probabilistic transitions systems
-    url: 'files/coalg.pdf'
 
 ---
 
