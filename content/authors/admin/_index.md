@@ -32,7 +32,7 @@ education:
   - course: PhD in Theoretical Computer Science
     institution: CentraleSupélec
     year: 2021
-  - course: MsC in Engineering
+  - course: MSc in Engineering
     institution: CentraleSupélec
     year: 2018
   - course: MSc in Mathematical Logic and Foundations of Computer Science
