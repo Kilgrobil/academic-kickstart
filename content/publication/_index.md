@@ -18,4 +18,4 @@ links:
   - icon_pack: fas
     icon: book
     name: (In)finite trace equivalence of probabilistic transitions systems
-    url: 'https://medium.com'
+    url: 'files/coalg.pdf'
