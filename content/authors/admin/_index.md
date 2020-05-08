@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:alexandre.goy@centralesupelec.fr'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: dblp
   icon_pack: ai
   link: https://dblp.uni-trier.de/pers/hd/g/Goy_0002:Alexandre
