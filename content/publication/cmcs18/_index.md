@@ -67,4 +67,4 @@ image = ""
 
 +++
 
-
+This article is from the work of my Master's Thesis.
