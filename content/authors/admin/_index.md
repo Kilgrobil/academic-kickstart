@@ -80,4 +80,4 @@ user_groups:
 
 Welcome on my academic page!
 
-I am a PhD student in the [LogiMICS](http://logimas.mics.centralesupelec.fr/) team of laboratory [MICS](http://mics.centralesupelec.fr/en), at [CentraleSupélec](https://www.centralesupelec.fr/), France. My supervisors are [Daniela Petrisan](https://www.irif.fr/~petrisan/) and [Marc Aiguier](http://perso.ecp.fr/~aiguierm/). My research focuses on weak distributive laws and their application to computer science, e.g. automata.
+I am a PhD student in the [LogiMICS](http://logimas.mics.centralesupelec.fr/) team of laboratory [MICS](http://mics.centralesupelec.fr/en), at [CentraleSupélec](https://www.centralesupelec.fr/), France. My supervisors are [Daniela Petrişan](https://www.irif.fr/~petrisan/) and [Marc Aiguier](http://perso.ecp.fr/~aiguierm/). My research focuses on weak distributive laws and their application to computer science, e.g. automata.
