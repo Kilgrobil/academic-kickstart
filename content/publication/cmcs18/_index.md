@@ -37,7 +37,7 @@ featured = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "cmcs18.pdf"
+url_pdf = "/cmcs18.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
