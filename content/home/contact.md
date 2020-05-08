@@ -19,3 +19,4 @@ email_form = 1
 +++
 
 You can also contact me by mail at $(\lambda w. \lambda x @ \lambda y . \lambda z)$ alexandre goy centralesupelec fr 
+If you do not know [lambda-calculus](https://en.wikipedia.org/wiki/Lambda_calculus), you can also contact me via the following form.
