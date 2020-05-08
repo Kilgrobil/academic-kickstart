@@ -18,4 +18,3 @@ autolink = true
 email_form = 1
 +++
 
-You can also contact me by mail at (\lambda w. \lambda x @ \lambda y . \lambda z) alexandre goy centralesupelec fr 
