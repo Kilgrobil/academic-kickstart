@@ -1,5 +1,5 @@
 ---
-title: "On the compositionality of monads via weak distributive laws"
+title: "On the Compositionality of Monads via Weak Distributive Laws"
 date: 2021-10-11
 publishDate: 2021-10-10T15:16:58.191754Z
 authors: ["Alexandre Goy"]
