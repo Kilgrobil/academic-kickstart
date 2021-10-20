@@ -86,12 +86,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "9 rue Joliot Curie", city = "Gif-sur-Yvette", region = "", postcode = "91190", country = "France", country_code = "FR"}
+address = {street = "46 allée d'Italie", city = "Lyon", region = "", postcode = "69364", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "48.708758", longitude = "2.167113"}
-
+coordinates = {latitude = "45.729961", longitude = "4.827115"}
 # Directions for visitors to locate you.
 directions = ""
 
