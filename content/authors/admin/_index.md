@@ -10,22 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: MICS, CentraleSupélec
-  url: "http://mics.centralesupelec.fr/"
+- name: PLUME, LIP, ENS Lyon
+  url: "http://www.ens-lyon.fr/LIP/PLUME/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in theoretical computer science, especially logic, category theory, coalgebra and automata.
+bio: I am interested in theoretical computer science, especially logic, category theory, coalgebra, and probabilistic aspects of these topics.
 
 interests:
 - Theoretical Computer Science
 - Logic
 - Category Theory
 - Coalgebra
-- Automata
+- Probability Theory
 
 education:
   courses:
@@ -80,6 +80,6 @@ user_groups:
 
 Welcome on my academic page!
 
-I am a PhD student in the [LogiMICS](http://logimas.mics.centralesupelec.fr/) team of laboratory [MICS](http://mics.centralesupelec.fr/en), at [CentraleSupélec](https://www.centralesupelec.fr/), France. My supervisors are [Daniela Petrişan](https://www.irif.fr/~petrisan/) and [Marc Aiguier](http://perso.ecp.fr/~aiguierm/). My research focuses on weak distributive laws and their application to computer science, e.g. automata.
+I am currently working as a postdoc with [Matteo Mio](https://perso.ens-lyon.fr/matteo.mio/) in the [PLUME](http://www.ens-lyon.fr/LIP/PLUME/) team of the [LIP](http://www.ens-lyon.fr/LIP/) laboratory, at [ENS Lyon](http://www.ens-lyon.fr/), France. I am studying the theory of Riesz spaces towards formal verification and certification of probabilistic software.
 
-I will defend my PhD on Tuesday 19 October, 5PM CEST at CentraleSupélec, Amphi Peugeot (sc.046). If you want to attend remotely, please contact me to get the link. You can find the manuscript [here](https://agoy.fr/publication/phd/phd.pdf).
+Previously I was a PhD student in the [LogiMICS](http://logimas.mics.centralesupelec.fr/) team of laboratory [MICS](http://mics.centralesupelec.fr/en), at [CentraleSupélec](https://www.centralesupelec.fr/), France. My amazing supervisors were [Daniela Petrişan](https://www.irif.fr/~petrisan/) and [Marc Aiguier](http://perso.ecp.fr/~aiguierm/). My research there focused on weak distributive laws and their application to computer science, e.g. automata. I successfully defended my PhD thesis on Tuesday 19 October. You can download the [manuscript](https://agoy.fr/publication/phd/phd.pdf) and the [slides](https://agoy.fr/publication/phd/slides.pdf).
