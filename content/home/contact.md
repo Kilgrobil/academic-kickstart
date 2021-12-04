@@ -18,5 +18,5 @@ autolink = true
 email_form = 1
 +++
 
-You can contact me by mail at $\lambda w \lambda x \lambda y \lambda z(w.x \@ y.z)$ alexandre goy pm me\
+You can contact me by email at $\lambda w \lambda x \lambda y \lambda z(w.x \@ y.z)$ alexandre goy pm me\
 If you do not know [$\lambda$-calculus](https://en.wikipedia.org/wiki/Lambda_calculus), you can also contact me via the following form.
