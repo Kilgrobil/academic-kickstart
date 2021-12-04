@@ -26,6 +26,7 @@ interests:
 - Category Theory
 - Coalgebra
 - Probability Theory
+- [Bouzote](enortier.fr)
 
 education:
   courses:
