@@ -18,7 +18,7 @@ organizations:
   url: "http://www.ens-lyon.fr/LIP/PLUME/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in theoretical computer science, especially logic, category theory, coalgebra, and probabilistic aspects of these topics, as well as [Bouzote](http://enortier.fr).
+bio: I am interested in theoretical computer science, especially logic, category theory, coalgebra, and probabilistic aspects of these topics.
 
 interests:
 - Theoretical Computer Science
