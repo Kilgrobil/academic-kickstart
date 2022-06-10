@@ -80,6 +80,8 @@ user_groups:
 
 Welcome on my academic page!
 
-I am currently working as a postdoc with [Matteo Mio](https://perso.ens-lyon.fr/matteo.mio/) in the [PLUME](http://www.ens-lyon.fr/LIP/PLUME/) team of the [LIP](http://www.ens-lyon.fr/LIP/) laboratory, at [ENS Lyon](http://www.ens-lyon.fr/), France. I am studying the theory of Riesz spaces towards formal verification and certification of probabilistic software.
+I am currently looking for new postdoc opportunities -- I am available from January 2023!
+
+I am working as a postdoc with [Matteo Mio](https://perso.ens-lyon.fr/matteo.mio/) in the [PLUME](http://www.ens-lyon.fr/LIP/PLUME/) team of the [LIP](http://www.ens-lyon.fr/LIP/) laboratory, at [ENS Lyon](http://www.ens-lyon.fr/), France. I am studying the theory of Riesz spaces towards formal verification and certification of probabilistic software.
 
 Previously I was a PhD student in the [LogiMICS](http://logimas.mics.centralesupelec.fr/) team of the [MICS](http://mics.centralesupelec.fr/en) laboratory, at [CentraleSupélec](https://www.centralesupelec.fr/), France. My amazing supervisors were [Daniela Petrişan](https://www.irif.fr/~petrisan/) and [Marc Aiguier](http://perso.ecp.fr/~aiguierm/). My research there focused on weak distributive laws and their application to computer science, e.g. automata. I successfully defended my PhD thesis on Tuesday 19 October 2021. You can download the [manuscript](https://agoy.fr/publication/phd/phd.pdf) and the [slides](https://agoy.fr/publication/phd/slides.pdf).
