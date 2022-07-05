@@ -78,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome on my academic page!
+Welcome to my academic page!
 
 I am currently looking for new postdoc opportunities -- I am available from January 2023!
 
