@@ -81,16 +81,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "alexandre.goy@centralesupelec.fr"
+email = "alexandre.goy@pm.me"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "46 allée d'Italie", city = "Lyon", region = "", postcode = "69364", country = "France", country_code = "FR"}
+address = {street = "B32, East Highfield Campus, University Road", city = "Southampton", region = "", postcode = "SO17 1BJ", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "45.729961", longitude = "4.827115"}
+coordinates = {latitude = "50.936886667136754", longitude = "-1.3960146120038541"}
 # Directions for visitors to locate you.
 directions = ""
 
