@@ -14,8 +14,8 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: PLUME, LIP, ENS Lyon
-  url: "http://www.ens-lyon.fr/LIP/PLUME/"
+- name: AIC team, University of Southampton, UK
+  url: "https://www.southampton.ac.uk/research/groups/agents-interaction-complexity"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in theoretical computer science, especially logic, category theory, coalgebra, and probabilistic aspects of these topics.
