@@ -12,10 +12,10 @@ superuser: true
 # Role/position
 role: Former academic researcher
 
-[comment]: <> ( # Organizations/Affiliations)
-[comment]: <> (organizations:)
-[comment]: <> (- name: AIC team, University of Southampton, UK)
-[comment]: <> (  url: "https://www.southampton.ac.uk/research/groups/agents-interaction-complexity")
+# Organizations/Affiliations)
+# organizations:
+# - name: AIC team, University of Southampton, UK
+#    url: "https://www.southampton.ac.uk/research/groups/agents-interaction-complexity"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in theoretical computer science, especially logic, category theory, coalgebra, and probabilistic aspects of these topics.
