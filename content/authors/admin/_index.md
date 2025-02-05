@@ -78,9 +78,11 @@ user_groups:
 - Visitors
 ---
 
+**This page is frozen in time, as I am not an academic researcher anymore. My new website will be available [here](https://agoy.fr/soon.jpg) when the time comes.**
+
 Welcome to my academic page!
 
-Since January 2023, I am a Research Fellow in Automated Verification in [University of Southampton](https://www.southampton.ac.uk/), UK, within the [COVER](https://www.southampton.ac.uk/research/projects/cover-coalgebraic-foundations-for-quantitative-verification) project of [Corina Cîrstea](https://www.southampton.ac.uk/people/5wyrzl/doctor-corina-cirstea).
+Until 2024, I was a Research Fellow in Automated Verification in [University of Southampton](https://www.southampton.ac.uk/), UK, within the [COVER](https://www.southampton.ac.uk/research/projects/cover-coalgebraic-foundations-for-quantitative-verification) project of [Corina Cîrstea](https://www.southampton.ac.uk/people/5wyrzl/doctor-corina-cirstea).
 
 Previously, I worked as a postdoc with [Matteo Mio](https://perso.ens-lyon.fr/matteo.mio/) in the [PLUME](http://www.ens-lyon.fr/LIP/PLUME/) team of the [LIP](http://www.ens-lyon.fr/LIP/) laboratory, at [ENS Lyon](http://www.ens-lyon.fr/), France.
 
